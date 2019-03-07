@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.tfg.bookmanagerammdb"
+        },
+        "jhipsterVersion": "5.8.1",
+        "applicationType": "monolith",
+        "baseName": "bookmanagerAMMDB",
+        "packageName": "com.tfg.bookmanagerammdb",
+        "packageFolder": "com/tfg/bookmanagerammdb",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": false,
+        "websocket": false,
+        "databaseType": "mongodb",
+        "devDatabaseType": "mongodb",
+        "prodDatabaseType": "mongodb",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "MjY5MjUyZGJmNjY2N2M5YmQ5OTRkMWMxY2M5NDE5N2FkNTBkZWZiYzdmZDAxN2JlNjU3NjNlY2Q2MDlkN2Q5ZmNmYjdlMGUyMGU2ZDM0YjBmOGM1OWM1YWU0M2Q3YzM1Mzk1MDc0Yjg1Mjk3MjYzZGU5MTZjMjBjMDQ0Y2MwZmU=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
